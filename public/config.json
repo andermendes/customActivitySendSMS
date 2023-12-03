@@ -21,7 +21,7 @@
                 }               
             ],
             "outArguments": [],
-            "url": "https://customcctivitysendsms-ef537929b838.herokuapp.com/execute",
+            "url": "https://customcctivitysendsms-ef537929b838.herokuapp.com/journeybuilder/execute",
             "verb": "POST",
             "body": "",
             "format": "json",
